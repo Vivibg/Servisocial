@@ -16,4 +16,4 @@ Plataforma web que centraliza servicios de redes sociales como Instagram, Facebo
 ```bash
 npm install
 npm start
-# Getting Started with Create React App
+
